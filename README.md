@@ -4,4 +4,4 @@ Joint modeling of associated mixed biomarkers in longitudinal studies leads to b
 
 ### Reference 
 Baghfalaki, T., Ganjali, M., Kabir, A., & Pazouki, A. (2022). A Bayesian shared parameter model for joint modeling of longitudinal continuous and binary outcomes. Journal of Applied Statistics, 49(3), 638-655. 
-Abailable at <https://www.tandfonline.com/doi/pdf/10.1080/02664763.2020.1822303>
+Abailable at <https://www.tandfonline.com/doi/pdf/10.1080/02664763.2020.1822303>.
